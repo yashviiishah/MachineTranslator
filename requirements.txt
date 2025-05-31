@@ -1,0 +1,8 @@
+torch>=1.9.0
+numpy>=1.19.2
+pandas>=1.2.4
+sentencepiece>=0.1.96
+nltk>=3.6.2
+matplotlib>=3.4.2
+tqdm>=4.62.2
+scikit-learn>=0.24.2 
