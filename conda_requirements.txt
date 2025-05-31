@@ -1,0 +1,12 @@
+# Core packages
+pytorch
+torchvision
+torchaudio
+pandas
+scikit-learn
+tqdm
+sentencepiece
+
+# SentencePiece (from conda-forge)
+-c conda-forge
+sentencepiece 
